@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjYxczB6eWgydDQyNGluMmFmYTA4eTBzNDZmbDl2MTFxMjczZzdoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif">
 
-- 🌱 I’m currently learning **Currently learning AWS through AWS Skill Builder and exploring cloud technologies.**
+- 🌱 **Currently learning AWS through AWS Skill Builder and exploring cloud technologies.**
 
 - 👨‍💻 All of my projects are available at [https://kritikatech.lovable.app](https://kritikatech.lovable.app)
 
