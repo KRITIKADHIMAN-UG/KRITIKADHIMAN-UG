@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kritikadhiman1492006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aEHxLogyJVSyV-1gkUPQxT5nz3lc1-ij/view?usp=sharing](https://drive.google.com/file/d/1aEHxLogyJVSyV-1gkUPQxT5nz3lc1-ij/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1MNXm1DZQAzEYO3ppTZwUkm2ij4i3fUWc/edit?usp=drive_link&ouid=106511932193645340493&rtpof=true&sd=true]
 
 - ⚡ Fun fact **I enjoy watching documentaries and learning something new every day.**
 
